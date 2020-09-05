@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/a1.png
+title: Pokemon game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-12-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Java
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Pokemon game I developed for ICS 212
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/a2.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I majored in ICT at KCC and learned Java as my first subject. I never studied computer language, so I had no background in it. Thus, I was really confused about the first class in Java.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The first start was 'Hello World.' It was just a few lines of code anyone could do, but I was really happy to see what I wanted on the screen. Even now, when I learn a new language, I always try 'Hello World' first. This is my sacred ritual of encountering a new language.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I learned Java for a year and finally made Pokemon games as a group. The process was not easy because colleagues also learned Java for the first time.  However, in the end, we made the Pokemon game and it went well. I wanted to learn another language by studying Java. Also, I thought I should study Java again because I thought my code was too complicated. If I make the code more concise, it will be easier to understand each other when working with others.
