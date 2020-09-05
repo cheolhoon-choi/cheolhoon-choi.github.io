@@ -13,8 +13,8 @@ labels:
 summary: The first computer I ever built..
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/b1.png">
+
+  <img class="ui image" src="{{ site.baseurl }}/images/b1.png">
 
 </div>
 
