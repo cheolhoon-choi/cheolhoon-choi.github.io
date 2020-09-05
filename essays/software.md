@@ -7,8 +7,10 @@ date: 2020-09-04
 labels:
   - Engineering
 ---
-
-<img class="ui image" src="../images/soft.jpg">
+<br />
+<br />
+<p align="center">
+<img class="ui image" src="/images/soft.jpg" width="100%" height="100%">
 
 Software engineering is an absolutely necessary concept. It will be used forever and in almost every other category. If the code itself is not systematic and overlaps, the software can be a very complex and tedious task. Software engineering makes the code more visible and implements the method behind it, making it clear and concise about the intended purpose and how it works. 
 
