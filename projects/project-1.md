@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/b2.png
-title: Micromouse
+title: Computer
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-01
@@ -10,7 +10,7 @@ labels:
   - Computer
   - Build
   
-summary: My first computer Buil.
+summary: The first computer I ever built..
 ---
 
 <div class="ui small rounded images">
