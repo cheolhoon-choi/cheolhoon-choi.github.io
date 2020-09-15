@@ -8,7 +8,7 @@
     "website": "https://cheolhoon.github.io",
     "summary": "I am studying for a B.S. in Computer Science of Information and Computer Sciences at the University of Hawaii.",
     "location": {
-      "address": "616 8th ave",
+      "address": "",
       "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -46,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
