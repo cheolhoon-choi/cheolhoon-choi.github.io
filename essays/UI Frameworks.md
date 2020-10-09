@@ -12,7 +12,7 @@ labels:
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/UI.pmg" width="80%" height="80%"/>
+<img class="ui image" src="/images/UI.png" width="80%" height="80%"/>
 </p>
 
 ### UI Framework
