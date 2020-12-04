@@ -25,6 +25,7 @@ Patterns are everywhere. We can see patterns that share the consistency of shape
 
 Design pattern refers to solutions that can be solved in the context of a particular part of the software design or program development process by organizing frequently occurring problems. Programming design patterns are helpful for communication. Designers who know design patterns can use patterns that have something in common to a particular problem to discuss solutions, enabling better communication. Proven intellectual patterns are economical because they can create high-quality designs in a short period of time and provide an environment where code levels can be raised and desired goals can be achieved at a small number of tiers.
 <br />
+<br />
 A good design or architecture is named Pattern, so developers can know the structure of the software just by the pattern name. Based on this, the design or structure used to develop existing software can be easily understood and quickly applied to new software, making software reuse easy.
 <br />
 <br />
