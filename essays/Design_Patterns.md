@@ -18,8 +18,9 @@ labels:
 Patterns are everywhere. We can see patterns that share the consistency of shapes, colors, and numbers. Also, each of us lives in a specific pattern and this pattern will be able to predict future situations. There are countless examples of patterns used informally in everyday life. It can be said that the design pattern of programming is the most appropriate pattern for this class.
 <br />
 <br />
-<img class="ui image" src="/images/design.jpeg" width="100%" height="100%"/>
-
+<p align="center">
+<img class="ui centered large image" src="/images/design.jpeg">
+</p>
 ### Characteristics and Advantages of Programming Design Patterns
 
 Design pattern refers to solutions that can be solved in the context of a particular part of the software design or program development process by organizing frequently occurring problems. Programming design patterns are helpful for communication. Designers who know design patterns can use patterns that have something in common to a particular problem to discuss solutions, enabling better communication. Proven intellectual patterns are economical because they can create high-quality designs in a short period of time and provide an environment where code levels can be raised and desired goals can be achieved at a small number of tiers.
