@@ -12,7 +12,7 @@ labels:
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/design1.png" width="100%" height="100%"/>
+<img class="ui image" src="/images/design1.png" width="80%" height="80%"/>
 </p>
 
 Patterns are everywhere. We can see patterns that share the consistency of shapes, colors, and numbers. Also, each of us lives in a specific pattern and this pattern will be able to predict future situations. There are countless examples of patterns used informally in everyday life. It can be said that the design pattern of programming is the most appropriate pattern for this class.
