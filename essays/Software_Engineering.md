@@ -21,11 +21,8 @@ labels:
 Software engineering was very helpful to me during this semester because it focused on computer science. I found that software engineering consists of more than just web application development. In this 314 class, I experienced basic software engineering concepts such as Agile Project Management, an iterative approach to planning and guiding project processes, and User Interface Framework, a framework created for user-interface applications. Also, I was able to learn how to work in an efficient and practical way with group members by setting milestones, assigning problems, and using branches at Github. I believe this will help me work in the software engineering industry in the future.
 <br />
 <br />
-<p align="center">
-<img class="ui image" src="/images/agile.png" width="80%" height="80%">
-</p>
                                                                                     
-### Agile Project Management
+### Agile Project Management <img class="ui medium floated rounded imag" src="/images/agile.png">
 
 Agile project management is the idea of dividing projects into smaller, more manageable stages so that teams can work more efficiently and adapt to all the changes they need. This type of structure helps you collaborate with your team members. For the ICS 314 final project, the job was divided into three milestones using the GitHub project board. Each milestone has a specific purpose that is set. Each milestone has a specific purpose to set up a previous milestone, and within each milestone, we were able to see what each team member had to do, in progress, or complete. Github is available to anyone and easy to use, so it's convenient to use it when you're working on a team project. Therefore, since this is a good management style, I will use it for the next group project if I have a chance.
 <br />
