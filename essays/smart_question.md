@@ -5,7 +5,8 @@ title: The importance of a question
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
-  - question
+  - Software Engineering
+  - Smart Qusetion
   
 ---
 <br />
