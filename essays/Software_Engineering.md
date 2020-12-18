@@ -31,7 +31,7 @@ Agile project management is the idea of dividing projects into smaller, more man
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/ethics.png" width="80%" height="80%">
+<img class="ui medium floated rounded image" src="/images/ethics.png">
 </p>
                                                                                      
 ### Ethics in Software Engineering
