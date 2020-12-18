@@ -20,7 +20,7 @@ If you want to destroy the keyboard because some parts of the code are not resol
 <br />
 <br />
 
-<img class="ui small floated circular image" src="/images/good.png"><a href="https://stackoverflow.com/questions/54680280/boolean-algebra-expression-factorisation">Here is an example of a good question.</a> 
+<img class="ui tiny floated circular image" src="/images/good.png"><a href="https://stackoverflow.com/questions/54680280/boolean-algebra-expression-factorisation">Here is an example of a good question.</a> 
 <br />
 This question is an example of a good question because it is clear and to the point. articulate the symptoms of the problem, provide sample code, and specify the target at the end. The author states clearly what he or she wants and what he or she does not want, specifying what is needed to solve his or her problems. This allows people to read, diagnose, and solve the author's problems quickly. Therefore, this question could receive a good answer.
 <br />
