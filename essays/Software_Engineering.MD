@@ -6,7 +6,8 @@ title: My Understanding of Software Engineering
 date: 2020-12-17
 labels:
   - Software Engineering
-  - 
+  - Agile Project Management
+  - Ethics in Software Engineering
 ---
 
 <br />
@@ -21,7 +22,7 @@ Software engineering was very helpful to me during this semester because it focu
 <br />
 <br />
 <p align="center">
-<img class="ui centered large image" src="/images/agile.png width="80%" height="80%">
+<img class="ui image" src="/images/agile.png width="80%" height="80%">
 </p>
                                                                                     
 ### Agile Project Management
@@ -30,7 +31,7 @@ Agile project management is the idea of dividing projects into smaller, more man
 <br />
 <br />
 <p align="center">
-<img class="ui centered large image" src="/images/ethics.png width="80%" height="80%">
+<img class="ui image" src="/images/ethics.png width="80%" height="80%">
 </p>
                                                                                      
 ### Ethics in Software Engineering
