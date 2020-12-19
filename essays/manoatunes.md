@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Understanding of Software Engineering
+title: Manoa Tunes
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
@@ -27,7 +27,7 @@ Manoa Tunes Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br /
 Manoa Tunes Project Page: [Project Page](https://manoa-tunes.github.io/) <br />
 Manoa Tunes GitHub Repository: [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
                                                                                     
-### Agile Project Management 
+## What I learned
 
 <img class="ui large right floated rounded image" src="/images/agile.png"> Agile project management is the idea of dividing projects into smaller, more manageable stages so that teams can work more efficiently and adapt to all the changes they need. This type of structure helps you collaborate with your team members. For the ICS 314 final project, the job was divided into three milestones using the GitHub project board. Each milestone has a specific purpose that is set. Each milestone has a specific purpose to set up a previous milestone, and within each milestone, we were able to see what each team member had to do, in progress, or complete. Github is available to anyone and easy to use, so it's convenient to use it when you're working on a team project. Therefore, since this is a good management style, I will use it for the next group project if I have a chance.
 <br />
