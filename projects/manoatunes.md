@@ -30,7 +30,7 @@ Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
 Project Page: [Manoa Tunes Project Page](https://manoa-tunes.github.io/) <br />
 GitHub Repository: [Manoa Tunes Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
 
-### What I learned
+### My contributions
       <br />
   At first, I mainly made the skeleton of the profile and studied the connection between the profile and interest, instrument, and jam. I also made a test page on every page and made sure that the contents of each page are running well. It helped me understand the overall flow of how all the files were connected and how they were executed.                   <br /><br />                                                          
 ### What I learned
