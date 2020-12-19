@@ -22,6 +22,10 @@ labels:
 </p>
 We wanted to create a user-friendly site. Entering the Manoa Tunes, you can find information about this site in key areas such as upcoming jam, today's track, important site features, and potential questions. Also, users can easily find other people with passion for music and make music bands easy.<br />
 <br />
+
+Manoa Tunes Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
+Manoa Tunes Project Page: [Project Page](https://manoa-tunes.github.io/) <br />
+Manoa Tunes GitHub Repository: [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
                                                                                     
 ### Agile Project Management 
 
