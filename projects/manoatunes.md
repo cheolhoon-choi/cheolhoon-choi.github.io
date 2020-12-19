@@ -14,32 +14,19 @@ labels:
   
 summary: The final project for ICS 314. This is an application designed to help people interested in music to create music bands.
 ---
-
-### Manoa Tunes
 <p align="center">
-<img class="ui large floated rounded image" src="/images/landing.png">
+<img class="ui image" src="/images/user-landing.png" width="80%" height="80%"/>
 </p>
 We wanted to create a user-friendly site. Entering the Manoa Tunes, you can find information about this site in key areas such as upcoming jam, today's track, important site features, and potential questions. Also, users can easily find other people with passion for music and make music bands easy.<br />
 <br />
+
 
 Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
 Project Page: [Manoa Tunes Project Page](https://manoa-tunes.github.io/) <br />
 GitHub Repository: [Manoa Tunes Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
                                                                                     
-## What I learned
-
-<img class="ui large right floated rounded image" src="/images/agile.png"> Agile project management is the idea of dividing projects into smaller, more manageable stages so that teams can work more efficiently and adapt to all the changes they need. This type of structure helps you collaborate with your team members. For the ICS 314 final project, the job was divided into three milestones using the GitHub project board. Each milestone has a specific purpose that is set. Each milestone has a specific purpose to set up a previous milestone, and within each milestone, we were able to see what each team member had to do, in progress, or complete. Github is available to anyone and easy to use, so it's convenient to use it when you're working on a team project. Therefore, since this is a good management style, I will use it for the next group project if I have a chance.
+### What I learned
+I was able to learn many things through this final project. I learned a lot during the semester, but it was not easy to do a project based on what I learned. I even transferred from KCC this fall, and I have never seen group members because of the Covid 19 Pandemics. This made it harder to work in a group. However, my group members worked hard on their roles and helped each other with their difficulties. I also got a lot of help from the group members. Therefore, I was able to gain a lot of technical experience through this project. It was a good opportunity to learn how to proceed with a group project.
 <br />
 <br />
 
-### Ethics in Software Engineering
-<p align="center">
-<img class="ui medium floated rounded image" src="/images/ethics.png">
-</p>
-
-The idea of ethics in software engineering is one of the hot topics. Software engineers design software that directly affects end-users. In addition to knowing how to develop software, engineers must be able to make ethical decisions about the software they have created. Individual engineers can be ethical. However, a situation that violates ethics can allow companies to violate their information without the permission of users. For example, Facebook caused controversy a few years ago by using 680,000 user data for psychological research without prior consent. This has become an ethical issue of manipulating user emotions and collecting data and has become a serious privacy issue due to personal information leakage.
-<br />
-<br />
-As the development of artificial intelligence technology accelerates, ethical issues will become more prominent. Therefore, I think ethics can be a compulsory subject for computer programmers in the near future. Because if engineers involved in the development of artificial intelligence have no ethical obligations and responsibilities, the technology will be disastrous.
-<br />
-<br />
