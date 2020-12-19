@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/c0.png
+image: images/logo.png
 title: Manoa Tunes
 permalink: projects/manoatunes
 # All dates must be YYYY-MM-DD format!
@@ -14,11 +14,6 @@ labels:
   
 summary: The final project for ICS 314. This is an application designed to help people interested in music to create music bands.
 ---
-<br />
-<br />
-<p align="center">
-<img class="ui image" src="/images/logo.png" width="80%" height="80%"/>
-</p>
 
 ### Manoa Tunes
 <p align="center">
@@ -27,9 +22,9 @@ summary: The final project for ICS 314. This is an application designed to help 
 We wanted to create a user-friendly site. Entering the Manoa Tunes, you can find information about this site in key areas such as upcoming jam, today's track, important site features, and potential questions. Also, users can easily find other people with passion for music and make music bands easy.<br />
 <br />
 
-Manoa Tunes Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
-Manoa Tunes Project Page: [Project Page](https://manoa-tunes.github.io/) <br />
-Manoa Tunes GitHub Repository: [Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
+Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
+Project Page: [Manoa Tunes Project Page](https://manoa-tunes.github.io/) <br />
+GitHub Repository: [Manoa Tunes Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
                                                                                     
 ## What I learned
 
