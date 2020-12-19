@@ -53,6 +53,9 @@
         "C++",
         "Java",
         "Javascript",
+        "Html",
+        "React",
+        "Meteor",
       ]
     },
     {
@@ -61,6 +64,7 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
+        "IntelliJ",
 
       ]
     }
@@ -74,7 +78,52 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "MATH 307: Linear Algebra and Differential Equations",
       ]
+    },
+    {
+      "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, Hawaii",
+      "area": "Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2018-01-10",
+      "endDate": "2020-08-30",
+      "gpa": "",
+      "courses": [
+        "ICS 111: Intro to Computer Science I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 141: Discrete Math for Comp Sci I",
+        "ICS 241: Discrete Math for Comp Sci II",
+        "MATH 241: Calculus I",
+        "MATH 242: Calculus II",
+      ]
+    }
+  ],
+"volunteer": [
+    {
+      "site": "Kapi‘olani Community College",
+      "position": "Tutor",
+      "startDate": "2019-02-04",
+      "endDate": "2019-05-13",
+      "highlights" :[
+        "Tutoring Korean for students who learn Korean classes"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "International Merit Award Scholarship",
+      "date": "2020-2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "GPA is above 3.30"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
