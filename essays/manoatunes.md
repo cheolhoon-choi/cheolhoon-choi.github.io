@@ -6,9 +6,9 @@ title: My Understanding of Software Engineering
 date: 2020-12-18
 labels:
   - Software Engineering
-  - Agile Project Management
-  - Ethics in Software Engineering
----
+  - Javascript
+  - Meteor
+  - Semantic UI
 
 <br />
 <br />
