@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/c0.png
 title: Manoa Tunes
-permalink: projects/cotton
+permalink: projects/manoatunes
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
@@ -12,8 +12,8 @@ labels:
   - Meteor
   - Semantic UI
   
-  
 summary: The final project for ICS 314. This is an application designed to help people interested in music to create music bands.
+---
 <br />
 <br />
 <p align="center">
