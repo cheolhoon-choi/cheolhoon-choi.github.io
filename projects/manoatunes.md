@@ -24,14 +24,16 @@ We wanted to create a user-friendly site. Entering the Manoa Tunes, you can find
 <img class="ui image" src="/images/ProfilePage.png" width="80%" height="80%"/>
 </p>
 The profile and jam were the main focus of our group. We let users have their own profiles, including musical interests and instruments they can play. Users can also view profiles of all users at once. Users can also filter profiles with specific information, such as interest, instrument, and jam.<br />
-
+<br />
 
 Deployed Website: [Manoa Tunes Website](http://159.65.68.217/) <br />
 Project Page: [Manoa Tunes Project Page](https://manoa-tunes.github.io/) <br />
 GitHub Repository: [Manoa Tunes Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
                                                                                     
 ### What I learned
-<img class="ui midium floated rounded image" src="/images/M3.png">
+<p align="center">
+<img class="ui image" src="/images/M3.png" width="80%" height="80%"/>
+</p>
 I was able to learn many things through this final project. I learned a lot during the semester, but it was not easy to do a project based on what I learned. I even transferred from KCC this fall, and I have never seen group members because of the Covid 19 Pandemics. This made it harder to work in a group. However, my group members worked hard on their roles and helped each other with their difficulties. I also got a lot of help from the group members. Therefore, I was able to gain a lot of technical experience through this project. It was a good opportunity to learn how to proceed with a group project.
 <br />
 <br />
