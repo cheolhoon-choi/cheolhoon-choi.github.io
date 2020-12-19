@@ -15,7 +15,7 @@ labels:
 summary: The final project for ICS 314. This is an application designed to help people interested in music to create music bands.
 ---
 <p align="center">
-<img class="ui image" src="/images/user-landing.png" width="80%" height="80%"/>
+<img class="ui image" src="/images/landing.png" width="80%" height="80%"/>
 </p>
 We wanted to create a user-friendly site. Entering the Manoa Tunes, you can find information about this site in key areas such as upcoming jam, today's track, important site features, and potential questions. Also, users can easily find other people with passion for music and make music bands easy.<br />
 <br />
