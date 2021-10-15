@@ -46,6 +46,10 @@ In addition, the user can check the accurate information by uploading the user's
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 <p align="center">
 <img class="ui image" src="/images/c-mobile.png" width="50%" height="40%"/>
 </p>
