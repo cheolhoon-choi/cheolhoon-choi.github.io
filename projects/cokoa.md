@@ -28,12 +28,14 @@ Through the left menu, users can check up their health status every day and chec
 In addition, they can go to the web pages related to COVID-19 through the right menu.<br />
 <br />
 <br />
-<p align="center">
+<p align="left">
 <img class="ui image" src="/images/c-health.png" width="40%" height="90%"/>
-<img class="ui image" src="/images/c-record.png" width="40%" height="40%"/>
 </p>
 The project focused on checking daily health status and uploading users' vaccine cards. 
-The user can check each symptom of COVID-19 and all of these records are stored. All stored symptoms can be confirmed. 
+The user can check each symptom of COVID-19 and all of these records are stored. All stored symptoms can be confirmed. <br />
+<p align="right">
+<img class="ui image" src="/images/c-record.png" width="40%" height="40%"/>
+</p>
 In addition, the user can check the accurate information by uploading the user's vaccine record card.<br />
 <br />
 <br />
