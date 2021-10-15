@@ -28,8 +28,8 @@ In addition, they can go to the web pages related to COVID-19 through the right 
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/c-health.png" width="70%" height="60%"/>
-<img class="ui image" src="/images/c-record.png" width="70%" height="60%"/>
+<img class="ui image" src="/images/c-health.png" width="40%" height="40%"/>
+<img class="ui image" src="/images/c-record.png" width="40%" height="40%"/>
 </p>
 The project focused on checking daily health status and uploading users' vaccine cards. 
 The user can check each symptom of COVID-19 and all of these records are stored. All stored symptoms can be confirmed. 
@@ -37,7 +37,7 @@ In addition, the user can check the accurate information by uploading the user's
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/c-mobile.png" width="80%" height="60%"/>
+<img class="ui image" src="/images/c-mobile.png" width="50%" height="40%"/>
 </p>
 Our team created a mobile version because we wanted this web application to be available anywhere. 
 Users can show others whether they are vaccinated or not through this application.<br />
