@@ -25,7 +25,7 @@ Through the left menu, users can check up their health status every day and chec
 In addition, they can go to the web pages related to COVID-19 through the right menu.<br />
 <br />
 <br />
-<img class="ui medium left floated rounded image" src="../images/c-health.png" width="70%" height="70%">
+<img class="ui medium left floated rounded image" src="../images/c-health.png" width="100%" height="70%">
 The project focused on checking daily health status and uploading users' vaccine cards. 
 The user can check each symptom of COVID-19 and all of these records are stored. All stored symptoms can be confirmed. <br />
 <br />
@@ -37,7 +37,7 @@ The user can check each symptom of COVID-19 and all of these records are stored.
 <br />
 <br />
 
-<img class="ui medium left floated rounded image" src="../images/c-record.png" width="70%" height="15%">
+<img class="ui medium left floated rounded image" src="../images/c-record.png" width="100%" height="15%">
 In addition, the user can check the accurate information by uploading the user's vaccine record card.<br />
 <br />
 <br />
@@ -51,7 +51,8 @@ In addition, the user can check the accurate information by uploading the user's
 <br />
 <br />
 <br />
-<br /><br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -60,7 +61,7 @@ In addition, the user can check the accurate information by uploading the user's
 <br />
 <br />
 
-<img class="ui medium right floated rounded image" src="../images/c-mobile.png" width="70%" height="20%">
+<img class="ui medium right floated rounded image" src="../images/c-mobile.png" width="80%" height="20%">
 Our team created a mobile version because we wanted this web application to be available anywhere. 
 Users can show others whether they are vaccinated or not through this application.
 <br />
