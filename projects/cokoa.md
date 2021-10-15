@@ -35,7 +35,6 @@ The user can check each symptom of COVID-19 and all of these records are stored.
 <br />
 <br />
 <br />
-<br />
 
 <img class="ui medium left floated rounded image" src="../images/c-record.png" width="100%" height="15%">
 In addition, the user can check the accurate information by uploading the user's vaccine record card.<br />
