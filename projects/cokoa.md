@@ -28,7 +28,7 @@ In addition, they can go to the web pages related to COVID-19 through the right 
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/c-health.png" width="40%" height="70%"/>
+<img class="ui image" src="/images/c-health.png" width="40%" height="90%"/>
 <img class="ui image" src="/images/c-record.png" width="40%" height="40%"/>
 </p>
 The project focused on checking daily health status and uploading users' vaccine cards. 
