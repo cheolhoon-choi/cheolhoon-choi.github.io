@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cokoa.png
 title: COKOA
-permalink: projects/cokoa
+permalink: projects/coKoa
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-14
 labels:
