@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/coKoa.png
+image: images/cokoa.png
 title: COKOA
 permalink: projects/cokoa
 # All dates must be YYYY-MM-DD format!
