@@ -51,11 +51,9 @@ In addition, the user can check the accurate information by uploading the user's
 <br />
 <br />
 
+<img class="ui medium left floated rounded image" src="../images/c-mobile.png" width="60%" height="20%">
 Our team created a mobile version because we wanted this web application to be available anywhere. 
 Users can show others whether they are vaccinated or not through this application.
-<p align="center">
-<img class="ui image" src="/images/c-mobile.png" width="60%" height="30%"/>
-</p>
 <br />
 
 ## Links
