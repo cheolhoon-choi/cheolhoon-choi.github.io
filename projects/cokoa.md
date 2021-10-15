@@ -37,8 +37,13 @@ The user can check each symptom of COVID-19 and all of these records are stored.
 <br />
 <br />
 
-<img class="ui medium left floated rounded image" src="../images/c-record.png" width="60%" height="20%">
+<img class="ui medium left floated rounded image" src="../images/c-record.png" width="60%" height="15%">
 In addition, the user can check the accurate information by uploading the user's vaccine record card.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -55,11 +60,6 @@ In addition, the user can check the accurate information by uploading the user's
 Our team created a mobile version because we wanted this web application to be available anywhere. 
 Users can show others whether they are vaccinated or not through this application.
 <br />
-
-## Links
-Deployed Website: [COKOA Website](https://team-8-cokoa.meteorapp.com/#/) <br />
-Project Page: [COKOA Project Page](ics491-team-08.github.io/) <br />
-GitHub Repository: [COKOA Github Repo](https://github.com/ICS491-Team-08/COKOA) <br /> <br />
                                                      
 ## What I learned
 I was able to learn many things through this project. 
@@ -67,3 +67,7 @@ Creating a mobile version of a web application was another challenge for me.
 I got a lot of help from the group members. Therefore, I was able to gain a lot of technical experience through this project. 
 <br />
 <br />
+## Links
+Deployed Website: [COKOA Website](https://team-8-cokoa.meteorapp.com/#/) <br />
+Project Page: [COKOA Project Page](ics491-team-08.github.io/) <br />
+GitHub Repository: [COKOA Github Repo](https://github.com/ICS491-Team-08/COKOA) <br /> <br /> <br />
