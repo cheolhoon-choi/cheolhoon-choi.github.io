@@ -14,9 +14,6 @@ labels:
   
 summary: The project for ICS 491. This is an application that tracks an individual's health status for COVID-19.
 ---
-
-### COKOA
-<br />
 ## About
 <br />
 <p align="center">
