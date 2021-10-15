@@ -16,7 +16,6 @@ summary: The project for ICS 491. This is an application that tracks an individu
 
 ### COKOA
 <br />
-<br />
 ## About
 <br />
 <p align="center">
@@ -29,8 +28,8 @@ In addition, they can go to the web pages related to COVID-19 through the right 
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/c-health.png" width="80%" height="80%"/>
-<img class="ui image" src="/images/c-record.png" width="80%" height="80%"/>
+<img class="ui image" src="/images/c-health.png" width="70%" height="60%"/>
+<img class="ui image" src="/images/c-record.png" width="70%" height="60%"/>
 </p>
 The project focused on checking daily health status and uploading users' vaccine cards. 
 The user can check each symptom of COVID-19 and all of these records are stored. All stored symptoms can be confirmed. 
@@ -38,21 +37,18 @@ In addition, the user can check the accurate information by uploading the user's
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/c-mobile.png" width="80%" height="80%"/>
+<img class="ui image" src="/images/c-mobile.png" width="80%" height="60%"/>
 </p>
 Our team created a mobile version because we wanted this web application to be available anywhere. 
 Users can show others whether they are vaccinated or not through this application.<br />
 <br />
 
 ## Links
-Deployed Website: [COKOA Website](http://159.65.68.217/) <br />
-Project Page: [COKOA Project Page](https://manoa-tunes.github.io/) <br />
-GitHub Repository: [COKOA Github Repo](https://github.com/manoa-tunes/manoa-tunes) <br /> <br />
+Deployed Website: [COKOA Website](https://team-8-cokoa.meteorapp.com/#/) <br />
+Project Page: [COKOA Project Page](ics491-team-08.github.io/) <br />
+GitHub Repository: [COKOA Github Repo](https://github.com/ICS491-Team-08/COKOA) <br /> <br />
                                                      
 ## What I learned
-<p align="center">
-<img class="ui image" src="/images/M3.png" width="80%" height="80%"/>
-</p>
 I was able to learn many things through this project. 
 Creating a mobile version of a web application was another challenge for me.
 I got a lot of help from the group members. Therefore, I was able to gain a lot of technical experience through this project. 
