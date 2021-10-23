@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/manoa-logo.png
-title: COKOA
+title: Manoa Tunes
 permalink: projects/manoatunes
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
