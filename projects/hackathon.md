@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/meteor.png
-title: COKOA
+title: Meteor Hackathon
 permalink: projects/hackathon
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-22
