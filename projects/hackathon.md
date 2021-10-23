@@ -26,7 +26,9 @@ GitHub Repository: [COKOA Github Repo](https://github.com/ICS491-Team-08/Team-Co
 </p>
 We thought about events where people meet in person after the pandemic.
 Since the pandemic is not over yet, we thought people should meet safely above all else.
-Users post their events through this application, and participants upload their vaccine information for a safe meeting.<br /><br />
+Users post their events through this application, and participants upload their vaccine information for a safe meeting.
+[more](https://github.com/ICS491-Team-08/Team-Cokoa/blob/main/README.md)
+<br /><br />
 
                                                      
 ## My contribution and what I learned.
