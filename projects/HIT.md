@@ -65,5 +65,15 @@ Our team had their own roles and everyone worked hard on their duties. However, 
 Above all, I learned that communication between team members is really important while working on the project. We had problems at the beginning of the project, but we were able to solve the difficulties through active communication. 
 <br />
 Through this project, I was able to learn a lot technically skills and the importance of communication.
-<br /><br /><br />
+<br /><br />
 
+
+## Team
+
+[Yong Kim](https://yongkim93.github.io) <br />
+[Yeji Han](https://yejihan92.github.io) <br />
+[Kai Hwang](https://hwangwooj.github.io) <br />
+[Cheolhoon Choi](https://cheolhoon.github.io) <br />
+[Keith Okuna](https://okuna.github.io) <br /><br />
+
+<br /><br /><br />
