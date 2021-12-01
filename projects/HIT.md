@@ -47,7 +47,7 @@ This data is collected using anonymized cell phone data.
 ## My Contribution
 <br />
 <p align="center">
-  <img class="ui image" src="/images/hit-home.png" width="40%" height="40%"/>
+  <img class="ui image" src="/images/hit-home.png" width="30%" height="30%"/>
 </p>
 At the start of the project, I added a trail course to the Meteor using the image upload feature, and I worked on the landing part.<br />
 It was my first time using React Native, but I learned the React hook and applied it to ui without data. I was in charge of the home screen of mobile, so that the functions of React Native appeared on the home screen.
@@ -64,6 +64,6 @@ Our team had their own roles and everyone worked hard on their duties. However, 
 <br />
 Above all, I learned that communication between team members is really important while working on the project. We had problems at the beginning of the project, but we were able to solve the difficulties through active communication. 
 <br />
-Through this project, I was able to learn a lot technically skills and human interaction.
+Through this project, I was able to learn a lot technically skills and the importance of communication.
 <br /><br /><br />
 
