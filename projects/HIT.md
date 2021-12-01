@@ -21,7 +21,7 @@ DevPost: [Hanabata-Code](https://devpost.com/software/hanabata-code) <br />
 GitHub Repository: [HIT Github Repo](https://github.com/HACC2021/Hanabata-Code) <br /> <br />
 
 ## Overview
-<br />
+
 <p align="center">
   <img class="ui image" src="/images/map.png" width="50%" height="40%"/>
 </p>
@@ -33,7 +33,7 @@ This will encourage users to visit trails which have not had any check-ins for t
 
                                                      
 ## Development
-<br />
+
 <p align="center">
   <img class="ui image" src="/images/system.png" width="60%" height="50%"/>
 </p>
@@ -45,7 +45,7 @@ This data is collected using anonymized cell phone data.
 
 
 ## My Contribution
-<br />
+
 <p align="center">
   <img class="ui image" src="/images/hit-home.png" width="30%" height="30%"/>
 </p>
@@ -57,7 +57,7 @@ In addition, I modified the ㅓson file on the trail that was not displayed on t
 
 
 ## What I learned
-<br />
+
 This was my first project using React Native using Metor as a backend server, so I was able to gain a lot of technical experience through HACC(Hawaii Annual Code Challenge). 
 <br />
 Our team had their own roles and everyone worked hard on their duties. However, there were many difficulties due to new learning skills. Our team's leader tried to solve the difficulties of the team members. Thanks to his efforts, the team members were able to easily accept it without fear of learning new technical skills.
