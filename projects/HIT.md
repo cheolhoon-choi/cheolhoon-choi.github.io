@@ -52,7 +52,7 @@ This data is collected using anonymized cell phone data.
 At the start of the project, I added a trail course to the Meteor using the image upload feature, and I worked on the landing part.<br />
 It was my first time using React Native, but I learned the React hook and applied it to ui without data. I was in charge of the home screen of mobile, so that the functions of React Native appeared on the home screen.
 <br />
-In addition, I modified the ㅓson file on the trail that was not displayed on the map so that the contents of the trail added from Meteor could be applied to the mobile.
+In addition, I modified the json file on the trail that was not displayed on the map so that the contents of the trail added from Meteor could be applied to the mobile.
 <br /><br />
 
 
