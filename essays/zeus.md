@@ -36,7 +36,7 @@ I think we would have developed more improved application if we had more active 
 <br />
 <br />
 <p align="center">
-<img class="ui image" src="/images/zeus2.png" width="60%" height="60%"/>
+<img class="ui image" src="/images/zeus2.png" width="70%" height="70%"/>
 </p>
 
 ### What I learned
