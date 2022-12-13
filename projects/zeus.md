@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
 title: ZEUS Reflection - UH Cryptics
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-14
@@ -12,6 +12,26 @@ labels:
 
 <br />
 <br />
+
+---
+layout: project
+type: project
+image: images/zeus2.png
+title: ZEUS Reflection - UH Cryptics 
+permalink: projects/zeus
+# All dates must be YYYY-MM-DD format!
+date: 2021-12-14
+labels:
+  - Software engineering
+  - Javascript
+  - Meteor
+  - Semantic UI
+  
+summary: Zeus is an inventorying application that was made for the John A. Burns School of Medicine's Houseless Outreach & Medical Education (HOME) project to improve their current inventorying system that is through Google Forms. 
+---
+## Links
+[eduWrench](https://eduwrench.org) <br />
+GitHub Repository: [eduWrench Github Repo](https://github.com/wrench-project/eduwrench) <br /> <br />
 
 ### Overview
 
