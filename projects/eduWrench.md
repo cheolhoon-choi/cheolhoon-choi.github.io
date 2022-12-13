@@ -21,7 +21,6 @@ summary: EduWRENCH is a project that teaches parallel and distributed computing 
 GitHub Repository: [eduWrench Github Repo](https://github.com/wrench-project/eduwrench) <br /> <br />
 
 ## Overview
-
 <p align="center">
   <img class="ui image" src="/images/e-dataFlow.png" width="70%" height="40%"/>
 </p>
@@ -36,7 +35,7 @@ We used JavaScript to build all of the features in the project because the web a
 The frontend of the website is built with Gatsby, a React-based open source framework. The backend is built with Express.js, a Node.js web application framework. 
 Lastly, the web application uses SQLite3 for the database. 
 
-<br /><br />
+<br />
 
                                                      
 ## Development
@@ -50,7 +49,7 @@ If we wanted to retrieve data from the server, we had to send a HTTP POST reques
 and the server responds with the data that we have requested. We thought about using HTTP GET requests to retrieve that data, 
 but since there are a lot of parameters, such as username, email, and practice keys, for the query, it would be more complicated to retrieve the data via GET requests.
 
-<br /><br />
+<br />
 
 
 ## My Contribution
@@ -62,13 +61,13 @@ Therefore, I implemented the function of leaving user feedback, and users can le
 Users can select the usefulness or quality of each module by answering multiple choice questions, and they can provide their opinions by leaving comments to improve the contents of the module. 
 If users leave feedback, they can no longer leave feedback for the same module with the completion message. 
 EduWrench has a function that helps users easily understand the specific concepts of each module by utilizing simulation activities. 
-<br />
+<br /><br />
 
 <p align="center">
   <img class="ui image" src="/images/e-sFeedback.png" width="70%" height="50%"/>
 </p>
 The simulation activity feedback was implemented in the same way as the module feedback, but a modal window appears after three simulation runs to allow users to leave feedback for the quality and usefulness of the simulation. 
-<br />
+<br /><br />
 
 <p align="center">
   <img class="ui image" src="/images/e-statistics.png" width="70%" height="50%"/>
@@ -79,7 +78,7 @@ I implemented practice questions to record the problems that users complete or g
 The global statistics shows the number of questions answered, and the figures show how many times users have attempted them. 
 Regarding user feedback, this page displays users’ thoughts on the usefulness and quality of the modules, and how valuable the simulation activities of each module were.
 
-<br /><br />
+<br />
 
 
 ## What I learned
