@@ -23,7 +23,7 @@ GitHub Repository: [eduWrench Github Repo](https://github.com/wrench-project/edu
 ## Overview
 
 <p align="center">
-  <img class="ui image" src="/images/e-dataFlow.png" width="50%" height="40%"/>
+  <img class="ui image" src="/images/e-dataFlow.png" width="70%" height="40%"/>
 </p>
 For this capstone project, we implemented additional features to the pedagogic web application EduWRENCH (https://eduwrench.org). 
 EduWRENCH is a project that teaches parallel and distributed computing topics with informative and interactive activities. 
@@ -55,7 +55,7 @@ but since there are a lot of parameters, such as username, email, and practice k
 
 ## My Contribution
 <p align="center">
-  <img class="ui image" src="/images/e-feedback.png" width="100%" height="50%"/>
+  <img class="ui image" src="/images/e-feedback.png" width="70%" height="50%"/>
 </p>
 A constant objective of EduWRENCH is to improve  the quality of the educational material it provides, but the original site did not allow users to provide any feedback. 
 Therefore, I implemented the function of leaving user feedback, and users can leave feedback only after logging in. 
@@ -65,13 +65,13 @@ EduWrench has a function that helps users easily understand the specific concept
 <br />
 
 <p align="center">
-  <img class="ui image" src="/images/e-sFeedback.png" width="60%" height="50%"/>
+  <img class="ui image" src="/images/e-sFeedback.png" width="70%" height="50%"/>
 </p>
 The simulation activity feedback was implemented in the same way as the module feedback, but a modal window appears after three simulation runs to allow users to leave feedback for the quality and usefulness of the simulation. 
 <br />
 
 <p align="center">
-  <img class="ui image" src="/images/e-statistics.png" width="100%" height="50%"/>
+  <img class="ui image" src="/images/e-statistics.png" width="70%" height="50%"/>
 </p>
 The production EduWRENCH site only displayed usage statistics on the total number of simulation runs, so I added the global statistics to display more information. 
 Global statistics included practice question data and feedback data from all users, and we decided to display the data with bar graphs. 
