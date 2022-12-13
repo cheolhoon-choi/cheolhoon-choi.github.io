@@ -17,7 +17,7 @@ summary: The project for ICS 341.
 ## About
 <br />
 <p align="center">
-<img class="ui image" src="/images/landing.png" width="80%" height="80%"/>
+<img class="ui image" src="/images/m-landing.png" width="80%" height="80%"/>
 </p>
 We wanted to create a user-friendly site. 
 Entering the Manoa Tunes, you can find information about this site in key areas such as upcoming jam, today's track, important site features, and potential questions. 
