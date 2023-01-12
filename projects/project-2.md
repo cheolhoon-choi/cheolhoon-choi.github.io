@@ -1,11 +1,11 @@
 ---
-layout: project
+layout: projectTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 type: project
 image: images/a1.png
 title: Pokemon game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-1000000000000000000000000000000
+date: 2019-12-10
 labels:
   - Java
   - GitHub
