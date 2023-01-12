@@ -5,7 +5,7 @@ image: images/a1.png
 title: Pokemon game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-10
+date: 2019-12-1000000000000000000000000000000
 labels:
   - Java
   - GitHub
